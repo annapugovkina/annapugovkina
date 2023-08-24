@@ -6,6 +6,12 @@ In 2023 graduated from Python and SQL programming language. New to Data Science 
 
 Passionate about teaching and learning new things, improvement through automation and process optimization.
 
+##### Databases:
+PostgreSQL
+
+##### Data Science:
+Python, Pandas, Numpy, Matplotlib, Seaborn, Phik, NLTK, Spacy, TF-IDF, SciPy, Scikit-learn, CatBoost, GridSearchCV, Statsmodels
+
 <!--
 **annapugovkina/annapugovkina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
