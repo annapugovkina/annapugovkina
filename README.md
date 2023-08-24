@@ -1,10 +1,10 @@
 ### Hi there 👋 I'm Anna
 
-#### Experienced professional with 10 years of expertise Сorporate lending in Financial sector. Leadership experience of about 3 years, 2 years experience in IT.
+Experienced professional with 10 years of expertise Сorporate lending in Financial sector. Leadership experience of about 3 years, 2 years experience in IT.
 
-#### In 2023 graduated from Python and SQL programming language. New to Data Science and Machine Learning.
+In 2023 graduated from Python and SQL programming language. New to Data Science and Machine Learning.
 
-#### Passionate about teaching and learning new things, improvement through automation and process optimization.
+Passionate about teaching and learning new things, improvement through automation and process optimization.
 
 <!--
 **annapugovkina/annapugovkina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
