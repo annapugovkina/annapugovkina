@@ -10,6 +10,9 @@ In 2023 graduated from Python and SQL programming language. New to Data Science 
 
 Passionate about teaching and learning new things, improvement through automation and process optimization.
 
+##### Business skills: 
+Finance, corporate lending, credit rating assessment, risk management, compliance, design thinking
+
 ##### Databases:
 PostgreSQL
 
